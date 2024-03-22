@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "#f55c6b",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": []
 }

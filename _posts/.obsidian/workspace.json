@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f55b39f13e602d78",
+    "id": "d63331131a36d976",
     "type": "split",
     "children": [
       {
-        "id": "fa1c377bb358e870",
+        "id": "ccd8b313db6d2d27",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1e2b0f52090800",
+            "id": "8bdc02d9d696ed03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "테스트 글.md",
+                "file": "2024-03-22-Github io 블로그 + obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,25 +25,26 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fe997035ca7fbb4c",
+    "id": "a0e2d34238a2bc44",
     "type": "split",
     "children": [
       {
-        "id": "e826cd6060575c26",
+        "id": "ef4d43b054e5467b",
         "type": "tabs",
+        "dimension": 46.285714285714285,
         "children": [
           {
-            "id": "5eb3400767885698",
+            "id": "7335eb6f557ec361",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
           {
-            "id": "79ff2a0bb6a48161",
+            "id": "da359fa4154c1c50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +59,7 @@
             }
           },
           {
-            "id": "ab86af69f20de983",
+            "id": "bb8b7d4401fc3c25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,26 +67,99 @@
             }
           }
         ]
+      },
+      {
+        "id": "9c1ef7ec1f2e5b32",
+        "type": "tabs",
+        "dimension": 28.38095238095238,
+        "children": [
+          {
+            "id": "df5ce620dca39985",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "090209f2ec6bd608",
+        "type": "tabs",
+        "dimension": 25.333333333333336,
+        "children": [
+          {
+            "id": "bed15e1d160339ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "right": {
-    "id": "3a3d4e0ebe080b13",
+    "id": "6f6100955759b77b",
     "type": "split",
     "children": [
       {
-        "id": "d8020e42752f981e",
+        "id": "cfb35c1ed1304ebb",
         "type": "tabs",
+        "dimension": 19.904458598726116,
         "children": [
           {
-            "id": "12c17e1374c95d16",
+            "id": "ee53740d36c95045",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-03-22-Github io 블로그 + obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5bc854782e9dc5e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "68c9d2772fff4953",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ae46d3a85cb6d8b3",
+        "type": "tabs",
+        "dimension": 23.805732484076433,
+        "children": [
+          {
+            "id": "61f8da387e095ee8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "테스트 글.md",
+                "file": "2024-03-22-Github io 블로그 + obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,46 +169,44 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "87fea58d368b81d0",
+        "type": "tabs",
+        "dimension": 22.29299363057325,
+        "children": [
           {
-            "id": "d00b8d1f15c3726c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "테스트 글.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1ef1d72d74724812",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "36b3bd42b65cd20f",
+            "id": "ff68dfea96b4c59c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "테스트 글.md"
+                "file": "2024-03-22-Github io 블로그 + obsidian.md"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6485fa9e6825f028",
+        "type": "tabs",
+        "dimension": 33.996815286624205,
+        "children": [
+          {
+            "id": "65ec9e67077bf47d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +215,62 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f1e2b0f52090800",
+  "active": "8bdc02d9d696ed03",
   "lastOpenFiles": [
-    "테스트 글.md"
+    "Life/AI/LLM/Model Code.md",
+    "Life/AI/LLM/참고코드.md",
+    "Life/AI/LLM/CPT 대화.md",
+    "Life/AI/LLM/질문 api.md",
+    "Life/이력서/LINE 최종본.md",
+    "Life/여행/인천 인스파이어 리조트.md",
+    "Life/여행/제주도.md",
+    "Life/개인 프로젝트/빌드라마/회원탈퇴.md",
+    "Daily/Life/2024-03-13.md",
+    "Life/이력서/네이버 웹툰 정리.md",
+    "X_Archived/놀라운 휴지통/아무거나.md",
+    "Life/이력서/무제 파일 1.md",
+    "X_Archived/놀라운 휴지통/Nox Mac 설치방법.md",
+    "Company/프로젝트/한살림/작업노트/OZ WMS 작업 가이드.md",
+    "X_Archived/놀라운 휴지통/Toss 문제 풀이.md",
+    "junlee36520620_이준규_과제2.pdf",
+    "junlee36520620.pdf",
+    "Life/이력서/네이버 웹툰.md",
+    "무제 파일.md",
+    "Life/AI/LLM",
+    "Life/여행",
+    "Skills/Dev/For Memory/Git 형상관리 잘하는 방법.md",
+    "Life/AI/기업성장/데이터 전처리.md",
+    "Life/AI/기업성장/yahoo finance.md",
+    "Life/AI/기업성장/Edgar.md",
+    "Life/AI/기업성장/Project Link.md",
+    "Life/AI/AI.md",
+    "Company/프로젝트/한살림/회의/회의 2024-01-11.md",
+    "Daily/Work/2024-01-11.md",
+    "Daily/Template.md",
+    "Spaces/Home",
+    "Spaces",
+    "Attached Files/Pasted image 20240117161534.png",
+    "Attached Files/Pasted image 20240112144107.png",
+    "Life/AI/기업성장",
+    "Company/프로젝트/한살림/설계/입고",
+    "Attached Files/스크린샷 2024-01-16 오후 11.15.47.png",
+    "Company/프로젝트/한살림.canvas",
+    "Company/CJ/가이드",
+    "Attached Files/Pasted image 20240112144616.png",
+    "Attached Files/Pasted image 20240112144103.png",
+    "Company/프로젝트/한살림/설계/KPI",
+    "Attached Files/Character/Pasted image 20240111133401.png",
+    "Attached Files/Pasted image 20230919115531.png",
+    "Attached Files/Pasted image 20231018135423.png",
+    "Attached Files/Pasted image 20231018163307.png",
+    "Attached Files/Pasted image 20231018135647.png",
+    "Dev/canvas/For Memory.canvas"
   ]
 }
