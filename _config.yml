@@ -40,9 +40,10 @@ social:
     # The first element serves as the copyright owner's link
     #    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/JQ-WCoding # change to your github homepage
-      # Uncomment below to add more social links
-      # - https://www.facebook.com/username
-      - https://www.linkedin.com/in/준규-이-51865326a
+    - https://www.linkedin.com/in/준규-이-51865326a
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+
 
 google_site_verification: 000 # fill in to your verification string
 
