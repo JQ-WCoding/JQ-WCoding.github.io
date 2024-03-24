@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-22-Github io 블로그 + obsidian.md",
+                "file": "2024-03-22-Github io 블로그 obsidian 적용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-22-Github io 블로그 + obsidian.md",
+                "file": "2024-03-22-Github io 블로그 obsidian 적용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-22-Github io 블로그 + obsidian.md",
+                "file": "2024-03-22-Github io 블로그 obsidian 적용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-22-Github io 블로그 + obsidian.md"
+                "file": "2024-03-22-Github io 블로그 obsidian 적용하기.md"
               }
             }
           }
@@ -224,6 +224,8 @@
   },
   "active": "8bdc02d9d696ed03",
   "lastOpenFiles": [
+    "2024-03-22-Github io 블로그 + obsidian.md",
+    "2024-03-22-Github io 블로그 obsidian 적용하기.md",
     "Life/AI/LLM/Model Code.md",
     "Life/AI/LLM/참고코드.md",
     "Life/AI/LLM/CPT 대화.md",
@@ -252,8 +254,6 @@
     "Life/AI/기업성장/Project Link.md",
     "Life/AI/AI.md",
     "Company/프로젝트/한살림/회의/회의 2024-01-11.md",
-    "Daily/Work/2024-01-11.md",
-    "Daily/Template.md",
     "Spaces/Home",
     "Spaces",
     "Attached Files/Pasted image 20240117161534.png",
