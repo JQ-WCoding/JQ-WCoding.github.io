@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-25-Github io 블로그 및 Obsidian으로 블로그 쉽게 관리하는 방법.md",
+                "file": "2024-03-22-Github io 블로그 obsidian 적용하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab9ade52f437f96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-25-Github io 블로그 및 Obsidian으로 블로그 쉽게 관리하는 방법.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-25-Github io 블로그 및 Obsidian으로 블로그 쉽게 관리하는 방법.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-25-Github io 블로그 및 Obsidian으로 블로그 쉽게 관리하는 방법.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -235,10 +247,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ef4f7b76d14c0c1",
+  "active": "ab9ade52f437f96a",
   "lastOpenFiles": [
     "2024-03-22-Github io 블로그 obsidian 적용하기.md",
-    "2024-03-25-Github io 블로그 및 Obsidian으로 블로그 쉽게 관리하는 방법.md",
+    "무제 파일.md",
+    "2024-03-25-오라클 계정 생성 후 기본 만료일.md",
     "2024-03-22-Github io 블로그 + obsidian.md",
     "Life/AI/LLM/Model Code.md",
     "Life/AI/LLM/참고코드.md",
@@ -266,7 +279,6 @@
     "Life/AI/기업성장/Edgar.md",
     "Life/AI/기업성장/Project Link.md",
     "Life/AI/AI.md",
-    "Company/프로젝트/한살림/회의/회의 2024-01-11.md",
     "Spaces/Home",
     "Spaces",
     "Attached Files/Pasted image 20240117161534.png",
