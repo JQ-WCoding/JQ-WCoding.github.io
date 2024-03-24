@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: JAKA # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 기술 블로그 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,15 +34,15 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Lee Jun Gyu
+  name: JAKA LEE
   email: junlee63520620@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/JQ-WCoding # change to your github homepage
-      # Uncomment below to add more social links
-      # - https://www.facebook.com/username
-      - https://www.linkedin.com/in/준규-이-51865326a
+#    - https://github.com/JQ-WCoding # change to your github homepage
+#      # Uncomment below to add more social links
+#      # - https://www.facebook.com/username
+#      - https://www.linkedin.com/in/준규-이-51865326a
 
 google_site_verification: # fill in to your verification string
 
