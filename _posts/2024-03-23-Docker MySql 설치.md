@@ -1,5 +1,5 @@
-Docker를 통해 MySQL 설치하는 방법입니다.
 
+Docker를 통해 MySQL 설치하는 방법입니다.
   
 
 1. (최신버전) MySQL 설치
@@ -65,7 +65,9 @@ mysql -u root -p
 
 7. 종료 및 나가기
 
+```bash
 exit
+```
 
  구동 중인 서버등을 종료할때 사용하는 command+c 혹은 ctrl+c가 아닌 exit를 사용하여야 합니다.
 
