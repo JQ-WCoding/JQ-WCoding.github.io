@@ -21,4 +21,4 @@ package-lock.json
 assets/js/dist
 
 #Obsidian
-_posts/.obsidian
+./_posts/.obsidian

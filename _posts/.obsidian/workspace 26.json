@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "91e9247e7500e3d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "51f53fb0c1d6c7f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03b46756c05dd618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company/프로젝트/한살림/설계/입고/반품입고 및 출고수정 프로세스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f6592a1ee5d414e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d2ec5c29e02a3e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d73e3940ed4b6c69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29b92357ed7e97f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "84b9be6588a0d27d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8788d935ec733c22",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9117e899aaefb97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eec5f054e279752c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f31147e41fdbe1a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa6635fddbe6772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a2c1c9ca5993fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c76d14e1fb9930e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "edf6f0002c1bc732",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Company/프로젝트/한살림/설계/입고/반품입고 및 출고수정 프로세스.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0444363db90488f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2afa8efcdc86109a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Company/프로젝트/한살림/설계/입고/반품입고 및 출고수정 프로세스.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "50b7f612fc2b6d3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "043e066ba621a657",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Company/프로젝트/한살림/설계/입고/반품입고 및 출고수정 프로세스.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "93c0705d44c2e0b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007522b706e5b774",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "03b46756c05dd618",
+  "lastOpenFiles": [
+    "Company/프로젝트/한살림/작업노트/2023.01.29 재고수불집계.md",
+    "무제 파일.md"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasComputerMouse",
+      "IbInternetBrowser",
+      "SiDatabricks",
+      "SiAirbnb",
+      "BoBxsNotepad"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Attached Files": "RiAttachment2",
+  "Daily": "CoCalendarDays",
+  "Life/대학원": "LiSchool",
+  "Life/부동산": "IbHouse",
+  "Life/투자": "RiMoneyDollarCircleLine",
+  "Life/AI": "LiBrain",
+  "Life/개인 프로젝트": "FasNoteSticky",
+  "Skills/Dev": "RiCodeView",
+  "Skills/Dev/For Memory": "FiSearch",
+  "Life": "FasPeopleGroup",
+  "Skills": "RiSkullFill",
+  "X_Archived": "FiTrash",
+  "Life/이력서": "BoBxsNotepad",
+  "Life/여행": "SiAirbnb",
+  "Life/대학원/23년 2학기/운영체제": "SiDwavesystems",
+  "Life/대학원/23년 2학기/소프트웨어": "RiComputerFill",
+  "Life/대학원/23년 2학기/데이터베이스": "FiDatabase",
+  "Life/대학원/24년 1학기/데이터과학": "SiDatabricks",
+  "Life/대학원/24년 1학기/인터넷특론": "IbInternetBrowser",
+  "Life/대학원/24년 1학기/프로그래밍 언어": "FasComputerMouse"
+}
