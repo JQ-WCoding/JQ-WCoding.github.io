@@ -14,4 +14,9 @@ Obsidian의 커뮤니티 플러그인 중 Git을 다운 받아 Github에 자동 
 # 소스 설정하기
 
 1. 사용자명.github.io 프로젝트 폴더의 '.gitignore' 파일을 수정
-2. 'posts' 폴더 하위에 Obsidian 설정 폴더인 .obsidian을 
+2. 'posts' 폴더 하위에 Obsidian 설정 폴더인 .obsidian을 형상관리 하지 않도록 등록합니다.
+   ```text
+   #Obsidian  
+   ./_posts/.obsidian
+   ```
+
