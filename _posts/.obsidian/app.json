@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attached Files",
+  "attachmentFolderPath": "attached_files",
   "showInlineTitle": true,
   "pdfExportSettings": {
     "includeName": true,

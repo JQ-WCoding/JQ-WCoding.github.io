@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-03-26-Github io 블로그에 Obsidian 적용하기.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -249,9 +249,12 @@
   },
   "active": "ab9ade52f437f96a",
   "lastOpenFiles": [
+    "attached_files/스크린샷 2024-03-25 오후 2.22.26.png",
+    "attached_files/스크린샷 2024-03-25 오후 2.18.34.png",
+    "2024-03-26-Github io 블로그에 Obsidian 적용하기.md",
+    "attached_files",
     "2024-03-23-Docker MySql 설치.md",
     "2024-03-25-오라클 계정 생성 후 기본 만료일.md",
-    "2024-03-26-Github io 블로그에 Obsidian 적용하기.md",
     "2024-03-22-Github io 블로그 + obsidian.md",
     "Life/AI/LLM/Model Code.md",
     "Life/AI/LLM/참고코드.md",
@@ -278,7 +281,6 @@
     "Life/AI/기업성장/yahoo finance.md",
     "Life/AI/기업성장/Edgar.md",
     "Life/AI/기업성장/Project Link.md",
-    "Life/AI/AI.md",
     "Spaces/Home",
     "Spaces",
     "Attached Files/Pasted image 20240117161534.png",
@@ -290,12 +292,10 @@
     "Company/CJ/가이드",
     "Attached Files/Pasted image 20240112144616.png",
     "Attached Files/Pasted image 20240112144103.png",
-    "Company/프로젝트/한살림/설계/KPI",
     "Attached Files/Character/Pasted image 20240111133401.png",
     "Attached Files/Pasted image 20230919115531.png",
     "Attached Files/Pasted image 20231018135423.png",
     "Attached Files/Pasted image 20231018163307.png",
-    "Attached Files/Pasted image 20231018135647.png",
     "Dev/canvas/For Memory.canvas"
   ]
 }
