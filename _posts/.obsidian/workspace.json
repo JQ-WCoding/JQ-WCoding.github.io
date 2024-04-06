@@ -11,8 +11,12 @@
             "id": "690ef07b28128812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-26-Github io 블로그에 Obsidian 적용하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-03-26-Github io 블로그에 Obsidian 적용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-03-26-Github io 블로그에 Obsidian 적용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-03-26-Github io 블로그에 Obsidian 적용하기.md"
+              }
             }
           }
         ]

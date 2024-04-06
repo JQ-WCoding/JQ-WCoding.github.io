@@ -5,9 +5,9 @@ Obsidian의 커뮤니티 플러그인 중 Git을 다운 받아 Github에 자동 
 
 1. 커뮤니티 플러그인 Git 다운로드
 2. Jekyll 기반 블로그를 사용하면 'posts' 폴더를 중심으로 vault 취급하여 Open Vault하기
-   ![Valut 작성](obsidian://open?vault=_posts&file=attached_files%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-25%20%EC%98%A4%ED%9B%84%202.22.26.png)
+   ![Valut 작성](https://github.com/JQ-WCoding/JQ-WCoding.github.io/blob/main/_posts/attached_files/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-25%20%EC%98%A4%ED%9B%84%202.22.26.png)
 3. 커뮤니티 플러그린 자동 Commit/Push/Pull 설정하여 글 작성 시, 자동 업로드하기(5분마다 commit하고, 10분 간격으로 push와 pull 작업을 진행합니다.)
-   ![Git 세팅](obsidian://open?vault=_posts&file=attached_files%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-25%20%EC%98%A4%ED%9B%84%202.18.34.png)
+   ![Git 세팅](https://github.com/JQ-WCoding/JQ-WCoding.github.io/blob/main/_posts/attached_files/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-25%20%EC%98%A4%ED%9B%84%202.18.34.png)
 
 
 ---
